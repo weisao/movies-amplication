@@ -1,0 +1,212 @@
+[
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manage",
+    "resource": "Movie",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Movie",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Movie",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "manage",
+    "resource": "Movie",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Movie",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Movie",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manage",
+    "resource": "Movie",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Movie",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Movie",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manage",
+    "resource": "Movie",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Movie",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Movie",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manage",
+    "resource": "Movie",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Movie",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Movie",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manage",
+    "resource": "MoviesType",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "MoviesType",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "MoviesType",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "manage",
+    "resource": "MoviesType",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "MoviesType",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "MoviesType",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manage",
+    "resource": "MoviesType",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "MoviesType",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "MoviesType",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manage",
+    "resource": "MoviesType",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "MoviesType",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "MoviesType",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manage",
+    "resource": "MoviesType",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "MoviesType",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "MoviesType",
+    "action": "read:any",
+    "attributes": "*"
+  }
+]
